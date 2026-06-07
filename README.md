@@ -2,7 +2,7 @@
 
 **`Estudante de Ti`**
 
-Me chamo Leonardo Ken Hioki Kanzato, tenho 16 anos e sou natural de São Paulo. Estou cursando o Ensino Médio Técnico em Ti. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedin"[Leonardo Ken](https://www.linkedin.com/in/leonardo-ken-688673351/)", onde compartilho meu projetos e cursos.
+Me chamo Leonardo Ken Hioki Kanzato, tenho 16 anos e sou natural de São Paulo. Estou cursando o Ensino Médio Técnico em Ti. Gosto da tecnologia tecnologia e compartilho meu conhecimento através do meu perfil do Linkedin"[Leonardo Ken](https://www.linkedin.com/in/leonardo-ken-688673351/)", onde compartilho meu projetos e cursos.
 
 <a href="https://www.linkedin.com/in/leonardo-ken-688673351/" target="_blank">
   <button style="
